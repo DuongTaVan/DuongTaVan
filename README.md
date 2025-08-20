@@ -1,4 +1,5 @@
 # Hello World 👋
+
 <p align="center">
     <img alt="Coding" width="200" src="/hello.gif">
 </p>
@@ -14,32 +15,16 @@ on. If I can help you, please connect with me.
 
 ### 🔧 Languages and Tools
 
-<p align="center" dir="auto" style="display: flex; align-items: center; justify-content: center;">
-  <code>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  </code>
-  <code>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
-  </code>
-  <code>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="40" height="40"/>
-  </code>
-  <code>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/>
-  </code>
-  <code>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="ts" width="40" height="40"/>
-   </code>
-  <code>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  </code>
-  <code>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </code>
-  <code>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </code>
-</p>
+</div>
 
 ---
 

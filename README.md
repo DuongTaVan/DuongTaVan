@@ -11,8 +11,6 @@ I’m also an open-source enthusiast and maintainer.
 🌱 I am also a person who likes to explore and develop new things, and performance optimization is also something I focus
 on. If I can help you, please connect with me.
 
----
-
 ### 🔧 Languages and Tools
 
 <div align="center">
@@ -25,11 +23,3 @@ on. If I can help you, please connect with me.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </div>
-
----
-
-<p align="center">
-   <img align="center" alt="Octocat" width="200" src="/dance.gif">
-</p>
-
-
